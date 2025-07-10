@@ -1,0 +1,52 @@
+{
+  "header": {
+    "title": "Renta de Bicicletas en Los Cabos",
+    "subtitle": "Explora el paraíso sobre dos ruedas"
+  },
+  "about": {
+    "title": "Sobre el Propietario",
+    "description": "¡Hola! Soy Carlos, un entusiasta del ciclismo con más de 10 años ofreciendo recorridos guiados en bicicleta en Los Cabos. Me encanta ayudar a las personas a descubrir la belleza natural de Baja California en bicicleta.",
+    "address": "Ubicación: Av. del Mar #123, Los Cabos, B.C.S., México"
+  },
+  "whatsapp": {
+    "message": "¡Hola! Estoy interesado en rentar una bicicleta en Los Cabos.",
+    "button": "Chatear por WhatsApp"
+  },
+
+"routes": {
+  "popularRoutes": "Rutas Populares",
+  "route1": "Costa Dorada",
+  "route2": "Montañas del Sol",
+  "route3": "Ruta del Desierto",
+  "route1Description": "Una ruta tranquila por la costa con vistas al mar y clima fresco.",
+  "route2Description": "Aventura montañosa ideal para ciclistas experimentados.",
+  "route3Description": "Desafiante recorrido a través del árido desierto de Baja California."
+}
+,
+
+  "map": {
+    "title": "Ubicación de Rutas en Los Cabos",
+    "directions": "Cómo llegar"
+  },
+   "bikes": {
+    "title": "Nuestras Bikers",
+    "bike1": "Montaña XC 3000",
+    "bike2": "Bicicleta Urbana",
+    "bike3": "Bici de Ruta Pro"
+  },
+  "footer": {
+  "aboutTitle": "Acerca de",
+  "aboutText": "Guiando ciclistas por Los Cabos desde 2010.",
+  "linksTitle": "Enlaces rápidos",
+  "linkHome": "Inicio",
+  "linkRoutes": "Rutas",
+  "linkBikes": "Bicicletas",
+  "linkContact": "Contacto",
+  "contactTitle": "Contacto",
+  "rights": "Todos los derechos reservados."
+}
+
+}
+
+
+

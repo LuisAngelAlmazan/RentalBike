@@ -1,0 +1,54 @@
+{
+  "header": {
+    "title": "Bike Rentals in Los Cabos",
+    "subtitle": "Explore paradise on two wheels"
+  },
+  "about": {
+    "title": "About the Owner",
+    "description": "Hi! I'm Carlos, a local cycling enthusiast with over 10 years of experience offering guided bike rentals in Los Cabos. I love helping people discover the natural beauty of Baja California by bike.",
+    "address": "Location: Av. del Mar #123, Los Cabos, B.C.S., Mexico"
+  },
+  "whatsapp": {
+    "message": "Hi! I'm interested in renting a bike in Los Cabos.",
+    "button": "Chat on WhatsApp"
+  },
+
+"routes": {
+  "popularRoutes": "Popular Routes",
+  "route1": "Golden Coast",
+  "route2": "Sun Mountains",
+  "route3": "Desert Path",
+  "route1Description": "A calm route along the coast with ocean views and cool breezes.",
+  "route2Description": "Mountain adventure perfect for experienced cyclists.",
+  "route3Description": "Challenging ride through the dry Baja California desert."
+}
+, 
+  "map": {
+    "title": "Route Locations in Los Cabos",
+    "directions": "Get Directions"
+  },
+  
+  "bikes": {
+    "title": "Our Bikes",
+    "bike1": "Mountain XC 3000",
+    "bike2": "Urban Bike",
+    "bike3": "Pro Road Bike"
+  },
+  "footer": {
+  "aboutTitle": "About",
+  "aboutText": "Guiding cyclists through Los Cabos since 2010.",
+  "linksTitle": "Quick Links",
+  "linkHome": "Home",
+  "linkRoutes": "Routes",
+  "linkBikes": "Bikes",
+  "linkContact": "Contact",
+  "contactTitle": "Contact",
+  "rights": "All rights reserved."
+}
+
+
+
+
+}
+
+
